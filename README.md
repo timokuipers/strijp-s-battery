@@ -1,3 +1,4 @@
+![Strijp-S Dashboard Preview](dashboard.png)
 # 🔋 Strijp-S Grid Congestion Solver
 
 An interactive simulation tool designed to model a **1.2 MWh Community Battery Energy Storage System (BESS)** for the Strijp-S district in Eindhoven.
